@@ -9,9 +9,6 @@ _This application is an open source project. Feel free to download, share, remix
 
 [nmap](https://nmap.org/)
 
-Follow this step to install nmap : [How to install nmap](https://www.raspberrypi.org/documentation/remote-access/ip-address.md)
-
-
 __### Optional Depencies and tools__
 
 - ## Samba
@@ -36,8 +33,6 @@ It is straight forward to setup via ssh or terminal on your Raspberry PI.
 
 ## How to run this application:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Update your raspbian or linux distro
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Install nmap following the above instruction
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Make sure you have python 3 installed
 
